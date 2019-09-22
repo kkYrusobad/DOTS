@@ -1,0 +1,266 @@
+2019-09-18 23:08:38	--	irc: connecting to server chat.freenode.net/6667...
+2019-09-18 23:08:39	--	irc: connected to chat.freenode.net/6667 (162.213.39.42)
+2019-09-18 23:08:39	--	weber.freenode.net: *** Looking up your hostname...
+2019-09-18 23:08:40	--	weber.freenode.net: *** Checking Ident
+2019-09-18 23:08:40	--	weber.freenode.net: *** Couldn't look up your hostname
+2019-09-18 23:08:40	--	weber.freenode.net: *** No Ident response
+2019-09-18 23:08:40	--	Welcome to the freenode Internet Relay Chat Network kky
+2019-09-18 23:08:40	--	Your host is weber.freenode.net[162.213.39.42/6667], running version ircd-seven-1.1.7
+2019-09-18 23:08:40	--	This server was created Fri Feb 22 2019 at 19:46:41 UTC
+2019-09-18 23:08:40	--	weber.freenode.net ircd-seven-1.1.7 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2019-09-18 23:08:40	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2019-09-18 23:08:40	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU KNOCK :are supported by this server
+2019-09-18 23:08:40	--	CPRIVMSG CNOTICE WHOX ETRACE :are supported by this server
+2019-09-18 23:08:40	--	There are 101 users and 86593 invisible on 30 servers
+2019-09-18 23:08:40	--	38 :IRC Operators online
+2019-09-18 23:08:40	--	21 :unknown connection(s)
+2019-09-18 23:08:40	--	48911 :channels formed
+2019-09-18 23:08:40	--	I have 6174 clients and 1 servers
+2019-09-18 23:08:40	--	6174 8086 :Current local users 6174, max 8086
+2019-09-18 23:08:40	--	86694 94773 :Current global users 86694, max 94773
+2019-09-18 23:08:40	--	Highest connection count: 8087 (8086 clients) (1761138 connections received)
+2019-09-18 23:08:40	--	- weber.freenode.net Message of the Day - 
+2019-09-18 23:08:40	--	- Welcome to weber.freenode.net in California, USA.
+2019-09-18 23:08:40	--	- Thanks to https://www.cloudsigma.com/ for sponsoring
+2019-09-18 23:08:40	--	- this server!
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- WEBER, DAVID M. (1952-), an American fantasy and scifi
+2019-09-18 23:08:40	--	- author. Best known for his 'Honor Harrington' series, his
+2019-09-18 23:08:40	--	- works span several genres, including alternate history,
+2019-09-18 23:08:40	--	- epic fantasy, military scifi and space opera. He's also
+2019-09-18 23:08:40	--	- done wargame design mainly for the StarFire tabletop
+2019-09-18 23:08:40	--	- boardgame series, a job which later evolved into the novel,
+2019-09-18 23:08:40	--	- 'Insurrection' (collaboration with Steve White, published
+2019-09-18 23:08:40	--	- in 1990).
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- Welcome to freenode - supporting the free and open source
+2019-09-18 23:08:40	--	- software communities since 1998.
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- By connecting to freenode you indicate that you have read and
+2019-09-18 23:08:40	--	- accept our policies and guidelines as set out on https://freenode.net
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- In the event that you observe behaviour that contravenes our policies,
+2019-09-18 23:08:40	--	- please notify a volunteer staff member via private message, or send us an
+2019-09-18 23:08:40	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2019-09-18 23:08:40	--	- situation within a reasonable period of time, and we may request further
+2019-09-18 23:08:40	--	- information or, as appropriate, involve other parties such as channel operators 
+2019-09-18 23:08:40	--	- Group Contacts representing an on-topic group.
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- freenode runs an open proxy scanner.
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- If you are looking for assistance, you may be able to find a list of 
+2019-09-18 23:08:40	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+2019-09-18 23:08:40	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2019-09-18 23:08:40	--	- any of us at any time. Please note that freenode predominantly provides 
+2019-09-18 23:08:40	--	- assistance via private message, and while we have a network channel the 
+2019-09-18 23:08:40	--	- primary venue for support requests is via private message to a member 
+2019-09-18 23:08:40	--	- of the volunteer staff team.
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- From time to time, volunteer staff may send server-wide notices relating to
+2019-09-18 23:08:40	--	- the project, or the communities that we host. The majority of such notices
+2019-09-18 23:08:40	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2019-09-18 23:08:40	--	- do not miss them. Important messages relating to the freenode project, including
+2019-09-18 23:08:40	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2019-09-18 23:08:40	--	- global notices.
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- Representing an on-topic project? Don't forget to register, more information
+2019-09-18 23:08:40	--	- can be found on the https://freenode.net website under "Group Registration".
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2019-09-18 23:08:40	--	- network going for close to two decades.
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- Thank you to all of our attendees, sponsors, speakers, exhibitors, helpers,
+2019-09-18 23:08:40	--	- and everyone else who made this year's freenode #live conference amazing.
+2019-09-18 23:08:40	--	- https://freenode.net/news/live-2018
+2019-09-18 23:08:40	--	-  
+2019-09-18 23:08:40	--	- Thank you for using freenode!
+2019-09-18 23:08:40	--	End of /MOTD command.
+2019-09-18 23:08:40	--	User mode [+i] by kky
+2019-09-18 23:08:42	=!=	irc: this buffer is not a channel!
+2019-09-18 23:08:57	=!=	irc: this buffer is not a channel!
+2019-09-18 23:24:45	--	#crypto: ##crypto :Forwarding to another channel
+2019-09-18 23:25:28	--	#security: Cannot join channel (+i) - you must be invited
+2019-09-18 23:25:55	--	#security: Cannot join channel (+i) - you must be invited
+2019-09-18 23:26:42	--	#ubuntu: #ubuntu-unregged :Forwarding to another channel
+2019-09-18 23:26:59	--	#archlinux: #archlinux-unregistered :Forwarding to another channel
+2019-09-18 23:27:00	--	CTCP requested by EMIYA: VERSION
+2019-09-18 23:27:00	--	CTCP reply to EMIYA: VERSION WeeChat 2.6 (Sep 16 2019 01:07:53)
+2019-09-18 23:28:07	--	MSG(NickServ): help register
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): ***** NickServ Help *****
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): Help for REGISTER:
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): 
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): This will register your current nickname with NickServ.
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): This will allow you to assert some form of identity on
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): the network and to be added to access lists. Furthermore,
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): NickServ will warn users using your nick without
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): identifying and allow you to kill ghosts.
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): The password is a case-sensitive password that you make
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): up. Please write down or memorize your password! You
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): will need it later to change settings.
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): 
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): You have to confirm the email address. To do this,
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): follow the instructions in the message sent to the email
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): address.
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): 
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): Syntax: REGISTER <password> <email-address>
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): 
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): Examples:
+2019-09-18 23:28:08	--	NickServ (NickServ@services.):     /msg NickServ REGISTER bar foo@bar.com
+2019-09-18 23:28:08	--	NickServ (NickServ@services.): ***** End of Help *****
+2019-09-18 23:29:25	=!=	irc: this buffer is not a channel!
+2019-09-18 23:30:11	--	##linux: Cannot join channel (+r) - you need to be identified with services - see https://freenode.net/kb/answer/registration
+2019-09-18 23:30:16	--	#linux: Cannot join channel (+i) - you must be invited
+2019-09-18 23:30:27	--	##linux: Cannot join channel (+r) - you need to be identified with services - see https://freenode.net/kb/answer/registration
+2019-09-18 23:30:34	--	#python: #python-unregistered :Forwarding to another channel
+2019-09-18 23:31:03	--	#networking: ##networking :Forwarding to another channel
+2019-09-18 23:31:58	--	#electronics: ##overflow :Forwarding to another channel
+2019-09-18 23:35:21	--	irc: disconnected from server
+2019-09-18 23:35:24	--	irc: connecting to server chat.freenode.net/6667...
+2019-09-18 23:35:24	--	irc: connected to chat.freenode.net/6667 (162.213.39.42)
+2019-09-18 23:35:24	--	weber.freenode.net: *** Looking up your hostname...
+2019-09-18 23:35:25	--	weber.freenode.net: *** Checking Ident
+2019-09-18 23:35:25	--	weber.freenode.net: *** Couldn't look up your hostname
+2019-09-18 23:35:25	--	weber.freenode.net: *** No Ident response
+2019-09-18 23:35:25	--	Welcome to the freenode Internet Relay Chat Network kkY
+2019-09-18 23:35:25	--	Your host is weber.freenode.net[162.213.39.42/6667], running version ircd-seven-1.1.7
+2019-09-18 23:35:25	--	This server was created Fri Feb 22 2019 at 19:46:41 UTC
+2019-09-18 23:35:25	--	weber.freenode.net ircd-seven-1.1.7 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2019-09-18 23:35:25	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2019-09-18 23:35:25	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 SAFELIST ELIST=CTU KNOCK :are supported by this server
+2019-09-18 23:35:25	--	CPRIVMSG CNOTICE WHOX ETRACE :are supported by this server
+2019-09-18 23:35:25	--	There are 101 users and 86600 invisible on 30 servers
+2019-09-18 23:35:25	--	38 :IRC Operators online
+2019-09-18 23:35:25	--	5 :unknown connection(s)
+2019-09-18 23:35:25	--	48895 :channels formed
+2019-09-18 23:35:25	--	I have 6136 clients and 1 servers
+2019-09-18 23:35:25	--	6136 8086 :Current local users 6136, max 8086
+2019-09-18 23:35:25	--	86701 94773 :Current global users 86701, max 94773
+2019-09-18 23:35:25	--	Highest connection count: 8087 (8086 clients) (1761265 connections received)
+2019-09-18 23:35:25	--	- weber.freenode.net Message of the Day - 
+2019-09-18 23:35:25	--	- Welcome to weber.freenode.net in California, USA.
+2019-09-18 23:35:25	--	- Thanks to https://www.cloudsigma.com/ for sponsoring
+2019-09-18 23:35:25	--	- this server!
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- WEBER, DAVID M. (1952-), an American fantasy and scifi
+2019-09-18 23:35:25	--	- author. Best known for his 'Honor Harrington' series, his
+2019-09-18 23:35:25	--	- works span several genres, including alternate history,
+2019-09-18 23:35:25	--	- epic fantasy, military scifi and space opera. He's also
+2019-09-18 23:35:25	--	- done wargame design mainly for the StarFire tabletop
+2019-09-18 23:35:25	--	- boardgame series, a job which later evolved into the novel,
+2019-09-18 23:35:25	--	- 'Insurrection' (collaboration with Steve White, published
+2019-09-18 23:35:25	--	- in 1990).
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- Welcome to freenode - supporting the free and open source
+2019-09-18 23:35:25	--	- software communities since 1998.
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- By connecting to freenode you indicate that you have read and
+2019-09-18 23:35:25	--	- accept our policies and guidelines as set out on https://freenode.net
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- In the event that you observe behaviour that contravenes our policies,
+2019-09-18 23:35:25	--	- please notify a volunteer staff member via private message, or send us an
+2019-09-18 23:35:25	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2019-09-18 23:35:25	--	- situation within a reasonable period of time, and we may request further
+2019-09-18 23:35:25	--	- information or, as appropriate, involve other parties such as channel operators 
+2019-09-18 23:35:25	--	- Group Contacts representing an on-topic group.
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- freenode runs an open proxy scanner.
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- If you are looking for assistance, you may be able to find a list of 
+2019-09-18 23:35:25	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+2019-09-18 23:35:25	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2019-09-18 23:35:25	--	- any of us at any time. Please note that freenode predominantly provides 
+2019-09-18 23:35:25	--	- assistance via private message, and while we have a network channel the 
+2019-09-18 23:35:25	--	- primary venue for support requests is via private message to a member 
+2019-09-18 23:35:25	--	- of the volunteer staff team.
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- From time to time, volunteer staff may send server-wide notices relating to
+2019-09-18 23:35:25	--	- the project, or the communities that we host. The majority of such notices
+2019-09-18 23:35:25	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2019-09-18 23:35:25	--	- do not miss them. Important messages relating to the freenode project, including
+2019-09-18 23:35:25	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2019-09-18 23:35:25	--	- global notices.
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- Representing an on-topic project? Don't forget to register, more information
+2019-09-18 23:35:25	--	- can be found on the https://freenode.net website under "Group Registration".
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2019-09-18 23:35:25	--	- network going for close to two decades.
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- Thank you to all of our attendees, sponsors, speakers, exhibitors, helpers,
+2019-09-18 23:35:25	--	- and everyone else who made this year's freenode #live conference amazing.
+2019-09-18 23:35:25	--	- https://freenode.net/news/live-2018
+2019-09-18 23:35:25	--	-  
+2019-09-18 23:35:25	--	- Thank you for using freenode!
+2019-09-18 23:35:25	--	End of /MOTD command.
+2019-09-18 23:35:25	--	User mode [+i] by kkY
+2019-09-18 23:35:25	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2019-09-18 23:35:32	--	#ubuntu: #ubuntu-unregged :Forwarding to another channel
+2019-09-18 23:35:35	--	irc: disconnected from server
+2019-09-18 23:43:04	--	irc: connecting to server chat.freenode.net/6667...
+2019-09-18 23:43:09	--	irc: connected to chat.freenode.net/6667 (149.56.134.238)
+2019-09-18 23:43:10	--	cherryh.freenode.net: *** Looking up your hostname...
+2019-09-18 23:43:10	--	cherryh.freenode.net: *** Checking Ident
+2019-09-18 23:43:10	--	cherryh.freenode.net: *** Couldn't look up your hostname
+2019-09-18 23:43:10	--	cherryh.freenode.net: *** No Ident response
+2019-09-18 23:43:10	--	Welcome to the freenode Internet Relay Chat Network kkY
+2019-09-18 23:43:10	--	Your host is cherryh.freenode.net[149.56.134.238/6667], running version ircd-seven-1.1.8
+2019-09-18 23:43:10	--	This server was created Wed Sep 11 2019 at 21:09:45 UTC
+2019-09-18 23:43:10	--	cherryh.freenode.net ircd-seven-1.1.8 DOQRSZaghilopsuwz CFILMPQSbcefgijklmnopqrstuvz bkloveqjfI
+2019-09-18 23:43:10	--	CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstuz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode STATUSMSG=@+ CALLERID=g CASEMAPPING=rfc1459 :are supported by this server
+2019-09-18 23:43:10	--	CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 DEAF=D FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: EXTBAN=$,ajrxz CLIENTVER=3.0 CPRIVMSG CNOTICE SAFELIST :are supported by this server
+2019-09-18 23:43:10	--	ELIST=CTU WHOX ETRACE KNOCK :are supported by this server
+2019-09-18 23:43:10	--	There are 100 users and 86616 invisible on 30 servers
+2019-09-18 23:43:10	--	38 :IRC Operators online
+2019-09-18 23:43:10	--	30 :unknown connection(s)
+2019-09-18 23:43:10	--	48893 :channels formed
+2019-09-18 23:43:10	--	I have 4126 clients and 1 servers
+2019-09-18 23:43:10	--	4126 4249 :Current local users 4126, max 4249
+2019-09-18 23:43:10	--	86716 87428 :Current global users 86716, max 87428
+2019-09-18 23:43:10	--	Highest connection count: 4250 (4249 clients) (92695 connections received)
+2019-09-18 23:43:10	--	- cherryh.freenode.net Message of the Day - 
+2019-09-18 23:43:10	--	- Welcome to cherryh.freenode.net in Montreal, CA.
+2019-09-18 23:43:10	--	- Welcome to freenode - supporting the free and open source
+2019-09-18 23:43:10	--	- software communities since 1998.
+2019-09-18 23:43:10	--	-  
+2019-09-18 23:43:10	--	- By connecting to freenode you indicate that you have read and
+2019-09-18 23:43:10	--	- accept our policies and guidelines as set out on https://freenode.net
+2019-09-18 23:43:10	--	-  
+2019-09-18 23:43:10	--	- In the event that you observe behaviour that contravenes our policies,
+2019-09-18 23:43:10	--	- please notify a volunteer staff member via private message, or send us an
+2019-09-18 23:43:10	--	- e-mail to complaints@freenode.net -- we will do our best to address the
+2019-09-18 23:43:10	--	- situation within a reasonable period of time, and we may request further
+2019-09-18 23:43:10	--	- information or, as appropriate, involve other parties such as channel operators 
+2019-09-18 23:43:10	--	- Group Contacts representing an on-topic group.
+2019-09-18 23:43:10	--	-  
+2019-09-18 23:43:10	--	- freenode runs an open proxy scanner.
+2019-09-18 23:43:10	--	-  
+2019-09-18 23:43:10	--	- If you are looking for assistance, you may be able to find a list of 
+2019-09-18 23:43:10	--	- volunteer staff on '/stats p' (shows only on-call staff) or by joining 
+2019-09-18 23:43:10	--	- #freenode and using the '/who freenode/staff/*' command. You may message
+2019-09-18 23:43:10	--	- any of us at any time. Please note that freenode predominantly provides 
+2019-09-18 23:43:10	--	- assistance via private message, and while we have a network channel the 
+2019-09-18 23:43:10	--	- primary venue for support requests is via private message to a member 
+2019-09-18 23:43:10	--	- of the volunteer staff team.
+2019-09-18 23:43:10	--	-  
+2019-09-18 23:43:10	--	- From time to time, volunteer staff may send server-wide notices relating to
+2019-09-18 23:43:10	--	- the project, or the communities that we host. The majority of such notices
+2019-09-18 23:43:10	--	- will be sent as wallops, and you can '/mode <yournick> +w' to ensure that you
+2019-09-18 23:43:10	--	- do not miss them. Important messages relating to the freenode project, including
+2019-09-18 23:43:10	--	- notices of upcoming maintenance and other scheduled downtime will be issued as
+2019-09-18 23:43:10	--	- global notices.
+2019-09-18 23:43:10	--	-  
+2019-09-18 23:43:10	--	- Representing an on-topic project? Don't forget to register, more information
+2019-09-18 23:43:10	--	- can be found on the https://freenode.net website under "Group Registration".
+2019-09-18 23:43:10	--	-  
+2019-09-18 23:43:10	--	- Thank you also to our server sponsors for the sustained support in keeping the
+2019-09-18 23:43:10	--	- network going for close to two decades.
+2019-09-18 23:43:10	--	-  
+2019-09-18 23:43:10	--	- Thank you to all of our attendees, sponsors, speakers, exhibitors, helpers,
+2019-09-18 23:43:10	--	- and everyone else who made this year's freenode #live conference amazing.
+2019-09-18 23:43:10	--	- https://freenode.net/news/live-2018
+2019-09-18 23:43:10	--	-  
+2019-09-18 23:43:10	--	- Thank you for using freenode!
+2019-09-18 23:43:10	--	End of /MOTD command.
+2019-09-18 23:43:10	--	User mode [+i] by kkY
+2019-09-18 23:43:10	--	NickServ (NickServ@services.): This nickname is registered. Please choose a different nickname, or identify via /msg NickServ identify <password>.
+2019-09-19 00:05:12	--	irc: disconnected from server

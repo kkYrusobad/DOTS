@@ -1,0 +1,41 @@
+2019-09-18 23:27:25	-->	kky (~kky@103.117.23.112) has joined #debian
+2019-09-18 23:27:25	--	Topic for #debian is "Current Debian release is buster, 10.1 point release /msg dpkg 10.1; /msg dpkg buster; /msg dpkg stretch->buster; /msg dpkg apt suite changed | Oldstable Stretch: /msg dpkg stretch ; /msg dpkg 9.11 ; 9.11 needs dist-upgrade | NO FLOOD: /msg dpkg paste | offtopic: #debian-offtopic | testing/unstable: #debian-next @ irc.oftc.net | chanlogs: /msg dpkg irclog"
+2019-09-18 23:27:25	--	Topic set by jelly (jelly@pdpc/supporter/active/jelly) on Fri, 13 Sep 2019 02:29:46
+2019-09-18 23:27:26	--	Channel #debian: 1575 nicks (2 ops, 0 voices, 1573 normals)
+2019-09-18 23:27:26	--	PvNotice(ChanServ): Welcome to #Debian. This is a discussion channel; if you have a question about Debian GNU/Linux, ask and we will try our best to answer it. Newcomers should read the channel's guidelines by typing "/msg dpkg guidelines". Please do not paste in the channel; use #flood instead. Thank you.
+2019-09-18 23:27:26	--	URL for #debian: http://www.debian.org
+2019-09-18 23:27:28	--	Channel created on Sat, 10 Feb 2001 04:46:24
+2019-09-18 23:27:49	greycat	Ensure that your Desktop Environment will *NOT* mount the device, either by configuring it somehow, or by logging out of it.  Become root.  Unmount the device.  cp ./Documents/Files/debian-live-10.1.0-amd64-xfce.iso /dev/sdb
+2019-09-18 23:27:53	Gigglebyte	jhutchins_wk>  The ISO is the only file in that folder and I thought *.* would be easier to type than typing the whole thing out.
+2019-09-18 23:27:55	greycat	Note, this is /dev/sdb NOT /deb/sdb1
+2019-09-18 23:28:15	jhutchins_wk	Gigglebyte: Experiment with your tab key.
+2019-09-18 23:28:34	daft_dutch	Hi, I have a laptop with windows pro. and i want to secure it with a debian vm in hyper-v that is infront of windows network wise.
+2019-09-18 23:28:46	--	Mode #debian [+l 1590] by debhelper
+2019-09-18 23:28:59	-->	kanterchloutze (~kanter@45.89.175.116) has joined #debian
+2019-09-18 23:29:12	daft_dutch	Most will be easy peasy but there is an issue with switching between a lan cable and wifi network.
+2019-09-18 23:29:47	daft_dutch	how can debian detect a change in the network and apply the ipforwaring from windows to the internet
+2019-09-18 23:30:13	-->	format_c (~format_c@unaffiliated/format-c/x-8927423) has joined #debian
+2019-09-18 23:30:16	jelly	wait, *.* does not match .foo ?
+2019-09-18 23:30:34	<--	P1ersson (~P1ersson@h-13-204.A165.priv.bahnhof.se) has quit (Read error: Connection reset by peer)
+2019-09-18 23:30:40	Gigglebyte	greycat>  received an error indicating there was no space left on the device after changing the command from /media/sdb1 to /dev/sdb1  Looks like a different command will need to be used in order to delete the existing installation file on the media.
+2019-09-18 23:31:05	greycat	wooledg:~$ mkdir /tmp/x; touch /tmp/x/foo /tmp/x/.bar; ls /tmp/x/*.*
+2019-09-18 23:31:05	greycat	ls: cannot access '/tmp/x/*.*': No such file or directory
+2019-09-18 23:31:18	<--	MenschZwoNull (~MenschZwo@p200300C8571712008D9A59977F2B7A2C.dip0.t-ipconnect.de) has quit (Ping timeout: 245 seconds)
+2019-09-18 23:31:21	jelly	Gigglebyte: <grey'cat> Note, this is /dev/sdb NOT /deb/sdb1
+2019-09-18 23:31:26	greycat	other shells may differ, but that's what bash does.
+2019-09-18 23:32:02	 *	jelly wonders if a zero width space prevents highlights
+2019-09-18 23:32:20	jelly	grey​cat:
+2019-09-18 23:33:04	jhutchins_wk	Gigglebyte: Computers are very literal things, if you don't type the correct device, it won't work correctly.
+2019-09-18 23:33:14	-->	yans (~yans@unaffiliated/yinsen) has joined #debian
+2019-09-18 23:33:44	jelly	huh, zsh does the same thing when unsetopt dotglob
+2019-09-18 23:33:59	greycat	bash has a dotglob also, but it's off by default
+2019-09-18 23:34:18	<--	martian67 (~martian67@about/linux/regular/martian67) has quit (Remote host closed the connection)
+2019-09-18 23:34:24	jelly	that was unexpected since foo* matches a foo
+2019-09-18 23:34:29	-->	twobitsprite (~isaac@8.42.18.10) has joined #debian
+2019-09-18 23:34:42	-->	martian67 (~martian67@about/linux/regular/martian67) has joined #debian
+2019-09-18 23:34:47	greycat	leading dots are just weird and full of hysterical raisins
+2019-09-18 23:34:49	-->	barrett (~barrett@unaffiliated/barrett) has joined #debian
+2019-09-18 23:34:57	-->	P1ersson (~P1ersson@h-13-204.A165.priv.bahnhof.se) has joined #debian
+2019-09-18 23:34:59	jhutchins_wk	Gigglebyte: If /media/sdb1 is present that means it's mounted, we specifically said to unmount it.
+2019-09-18 23:35:01	-->	Susant (~Susant@60.254.37.248) has joined #debian
+2019-09-18 23:35:21	--	irc: disconnected from server

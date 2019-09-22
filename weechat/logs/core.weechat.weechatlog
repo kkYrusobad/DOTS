@@ -1,0 +1,262 @@
+2019-09-18 22:45:04		New key binding (context "default"): meta2-1;5P => /bar scroll buflist * -100%
+2019-09-18 22:45:04		New key binding (context "default"): meta2-1;5Q => /bar scroll buflist * +100%
+2019-09-18 22:45:04		New key binding (context "default"): meta-meta-OQ => /bar scroll buflist * e
+2019-09-18 22:45:04		New key binding (context "default"): meta2-1;3Q => /bar scroll buflist * e
+2019-09-18 22:45:04		New key binding (context "default"): meta2-1;3P => /bar scroll buflist * b
+2019-09-18 22:45:04		New key binding (context "default"): meta-meta-OP => /bar scroll buflist * b
+2019-09-18 22:45:04		New key binding (context "default"): meta-OQ => /bar scroll buflist * +100%
+2019-09-18 22:45:04		New key binding (context "default"): meta-OP => /bar scroll buflist * -100%
+2019-09-18 22:45:04		New key binding (context "default"): meta-meta2-12~ => /bar scroll buflist * e
+2019-09-18 22:45:04		New key binding (context "default"): meta-meta2-11~ => /bar scroll buflist * b
+2019-09-18 22:45:04		New key binding (context "default"): meta2-12^ => /bar scroll buflist * +100%
+2019-09-18 22:45:04		New key binding (context "default"): meta2-12~ => /bar scroll buflist * +100%
+2019-09-18 22:45:04		New key binding (context "default"): meta2-11^ => /bar scroll buflist * -100%
+2019-09-18 22:45:04		New key binding (context "default"): meta2-11~ => /bar scroll buflist * -100%
+2019-09-18 22:45:04		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2019-09-18 23:05:59	=!=	You can not write text in this buffer
+2019-09-18 23:06:03	=!=	You can not write text in this buffer
+2019-09-18 23:06:08	=!=	You can not write text in this buffer
+2019-09-18 23:06:32		fifo: pipe closed
+2019-09-18 23:06:34		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2019-09-18 23:06:36		[core]
+2019-09-18 23:06:36		  away     command  filter   key      plugin   reload   set      version
+2019-09-18 23:06:36		  bar      cursor   help     layout   print    repeat   unset    wait   
+2019-09-18 23:06:36		  buffer   debug    history  mouse    proxy    save     upgrade  window 
+2019-09-18 23:06:36		  color    eval     input    mute     quit     secure   uptime 
+2019-09-18 23:06:36		[trigger]
+2019-09-18 23:06:36		  trigger
+2019-09-18 23:06:36		[alias]
+2019-09-18 23:06:36		  AAWAY    C        IG       M        REDRAW   UMODE    WII    
+2019-09-18 23:06:36		  alias    CHAT     J        MSGBUF   SAY      V        WM     
+2019-09-18 23:06:36		  ANICK    CL       K        MUB      SIGNOFF  W        WW     
+2019-09-18 23:06:36		  BEEP     CLOSE    KB       N        T        WC     
+2019-09-18 23:06:36		  BYE      EXIT     LEAVE    Q        UB       WI     
+2019-09-18 23:06:36		[buflist]
+2019-09-18 23:06:36		  buflist
+2019-09-18 23:06:36		[fset]
+2019-09-18 23:06:36		  fset
+2019-09-18 23:06:36		[perl]
+2019-09-18 23:06:36		  perl
+2019-09-18 23:06:36		[ruby]
+2019-09-18 23:06:36		  ruby
+2019-09-18 23:06:36		[logger]
+2019-09-18 23:06:36		  logger
+2019-09-18 23:06:36		[python]
+2019-09-18 23:06:36		  python
+2019-09-18 23:06:36		[xfer]
+2019-09-18 23:06:36		  me  xfer
+2019-09-18 23:06:36		[charset]
+2019-09-18 23:06:36		  charset
+2019-09-18 23:06:36		[fifo]
+2019-09-18 23:06:36		  fifo
+2019-09-18 23:06:36		[exec]
+2019-09-18 23:06:36		  exec
+2019-09-18 23:06:36		[irc]
+2019-09-18 23:06:36		  admin       die         lusers      ping        saquit      userhost  
+2019-09-18 23:06:36		  allchan     disconnect  map         pong        server      users     
+2019-09-18 23:06:36		  allpv       halfop      me          query       service     version   
+2019-09-18 23:06:36		  allserv     ignore      mode        quiet       servlist    voice     
+2019-09-18 23:06:36		  ban         info        motd        quote       squery      wallchops 
+2019-09-18 23:06:36		  cap         invite      msg         reconnect   squit       wallops   
+2019-09-18 23:06:36		  connect     ison        names       rehash      stats       who       
+2019-09-18 23:06:36		  ctcp        join        nick        remove      summon      whois     
+2019-09-18 23:06:36		  cycle       kick        notice      restart     time        whowas    
+2019-09-18 23:06:36		  dcc         kickban     notify      sajoin      topic     
+2019-09-18 23:06:36		  dehalfop    kill        op          samode      trace     
+2019-09-18 23:06:36		  deop        links       oper        sanick      unban     
+2019-09-18 23:06:36		  devoice     list        part        sapart      unquiet   
+2019-09-18 23:06:36		[relay]
+2019-09-18 23:06:36		  relay
+2019-09-18 23:06:36		[script]
+2019-09-18 23:06:36		  script
+2019-09-18 23:06:36		[lua]
+2019-09-18 23:06:36		  lua
+2019-09-18 23:06:36		[spell]
+2019-09-18 23:06:36		  spell
+2019-09-18 23:06:36		[tcl]
+2019-09-18 23:06:36		  tcl
+2019-09-18 23:06:48	=!=	You can not write text in this buffer
+2019-09-18 23:06:50	=!=	irc: command "ping" must be executed on irc buffer (server, channel or private)
+2019-09-18 23:06:58		No server
+2019-09-18 23:07:01	=!=	Error: unknown command "/add" (type /help for help)
+2019-09-18 23:07:39	=!=	irc: unable to add temporary server "freenode" because the addition of temporary servers with command /connect is currently disabled
+2019-09-18 23:07:39	=!=	irc: if you want to add a standard server, use the command "/server add" (see /help server); if you really want to add a temporary server (NOT SAVED), turn on the option irc.look.temporary_servers
+2019-09-18 23:07:52		No server
+2019-09-18 23:07:58	=!=	Too few arguments for command "/server add" (help on command: /help server)
+2019-09-18 23:08:07		[irc]  /server  list|listfull [<name>]
+2019-09-18 23:08:07		                add <name> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2019-09-18 23:08:07		                copy|rename <name> <new_name>
+2019-09-18 23:08:07		                reorder <name> [<name>...]
+2019-09-18 23:08:07		                open <name>|-all [<name>...]
+2019-09-18 23:08:07		                del|keep <name>
+2019-09-18 23:08:07		                deloutq|jump|raw
+2019-09-18 23:08:07		list, add or remove IRC servers
+2019-09-18 23:08:07		    list: list servers (without argument, this list is displayed)
+2019-09-18 23:08:07		listfull: list servers with detailed info for each server
+2019-09-18 23:08:07		     add: add a new server
+2019-09-18 23:08:07		    name: server name, for internal and display use; this name is used to connect to the server (/connect name) and to set server options: irc.server.name.xxx
+2019-09-18 23:08:07		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2019-09-18 23:08:07		   -temp: add a temporary server (not saved)
+2019-09-18 23:08:07		  option: set option for server (for boolean option, value can be omitted)
+2019-09-18 23:08:07		nooption: set boolean option to 'off' (for example: -nossl)
+2019-09-18 23:08:07		    copy: duplicate a server
+2019-09-18 23:08:07		  rename: rename a server
+2019-09-18 23:08:07		 reorder: reorder list of servers
+2019-09-18 23:08:07		    open: open the server buffer without connecting
+2019-09-18 23:08:07		    keep: keep server in config file (for temporary servers only)
+2019-09-18 23:08:07		     del: delete a server
+2019-09-18 23:08:07		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2019-09-18 23:08:07		    jump: jump to server buffer
+2019-09-18 23:08:07		     raw: open buffer with raw IRC data
+2019-09-18 23:08:07		Examples:
+2019-09-18 23:08:07		  /server listfull
+2019-09-18 23:08:07		  /server add freenode chat.freenode.net
+2019-09-18 23:08:07		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2019-09-18 23:08:07		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2019-09-18 23:08:07		  /server copy freenode freenode-test
+2019-09-18 23:08:07		  /server rename freenode-test freenode2
+2019-09-18 23:08:07		  /server reorder freenode2 freenode
+2019-09-18 23:08:07		  /server del freenode
+2019-09-18 23:08:07		  /server deloutq
+2019-09-18 23:08:26		irc: server freenode added
+2019-09-18 23:08:31		All servers:
+2019-09-18 23:08:31		   freenode
+2019-09-18 23:08:48		[core]
+2019-09-18 23:08:48		  away     cursor   history  mute     reload   unset    window 
+2019-09-18 23:08:48		  bar      debug    input    plugin   repeat   upgrade
+2019-09-18 23:08:48		  buffer   eval     key      print    save     uptime 
+2019-09-18 23:08:48		  color    filter   layout   proxy    secure   version
+2019-09-18 23:08:48		  command  help     mouse    quit     set      wait   
+2019-09-18 23:08:48		[trigger]
+2019-09-18 23:08:48		  trigger
+2019-09-18 23:08:48		[alias]
+2019-09-18 23:08:48		  AAWAY    C        IG       M        REDRAW   UMODE    WII    
+2019-09-18 23:08:48		  alias    CHAT     J        MSGBUF   SAY      V        WM     
+2019-09-18 23:08:48		  ANICK    CL       K        MUB      SIGNOFF  W        WW     
+2019-09-18 23:08:48		  BEEP     CLOSE    KB       N        T        WC     
+2019-09-18 23:08:48		  BYE      EXIT     LEAVE    Q        UB       WI     
+2019-09-18 23:08:48		[buflist]
+2019-09-18 23:08:48		  buflist
+2019-09-18 23:08:48		[fset]
+2019-09-18 23:08:48		  fset
+2019-09-18 23:08:48		[perl]
+2019-09-18 23:08:48		  perl
+2019-09-18 23:08:48		[ruby]
+2019-09-18 23:08:48		  ruby
+2019-09-18 23:08:48		[logger]
+2019-09-18 23:08:48		  logger
+2019-09-18 23:08:48		[python]
+2019-09-18 23:08:48		  python
+2019-09-18 23:08:48		[xfer]
+2019-09-18 23:08:48		  me  xfer
+2019-09-18 23:08:48		[charset]
+2019-09-18 23:08:48		  charset
+2019-09-18 23:08:48		[fifo]
+2019-09-18 23:08:48		  fifo
+2019-09-18 23:08:48		[exec]
+2019-09-18 23:08:48		  exec
+2019-09-18 23:08:48		[irc]
+2019-09-18 23:08:48		  admin       halfop      motd        rehash      time      
+2019-09-18 23:08:48		  allchan     ignore      msg         remove      topic     
+2019-09-18 23:08:48		  allpv       info        names       restart     trace     
+2019-09-18 23:08:48		  allserv     invite      nick        sajoin      unban     
+2019-09-18 23:08:48		  ban         ison        notice      samode      unquiet   
+2019-09-18 23:08:48		  cap         join        notify      sanick      userhost  
+2019-09-18 23:08:48		  connect     kick        op          sapart      users     
+2019-09-18 23:08:48		  ctcp        kickban     oper        saquit      version   
+2019-09-18 23:08:48		  cycle       kill        part        server      voice     
+2019-09-18 23:08:48		  dcc         links       ping        service     wallchops 
+2019-09-18 23:08:48		  dehalfop    list        pong        servlist    wallops   
+2019-09-18 23:08:48		  deop        lusers      query       squery      who       
+2019-09-18 23:08:48		  devoice     map         quiet       squit       whois     
+2019-09-18 23:08:48		  die         me          quote       stats       whowas    
+2019-09-18 23:08:48		  disconnect  mode        reconnect   summon    
+2019-09-18 23:08:48		[relay]
+2019-09-18 23:08:48		  relay
+2019-09-18 23:08:48		[script]
+2019-09-18 23:08:48		  script
+2019-09-18 23:08:48		[lua]
+2019-09-18 23:08:48		  lua
+2019-09-18 23:08:48		[spell]
+2019-09-18 23:08:48		  spell
+2019-09-18 23:08:48		[tcl]
+2019-09-18 23:08:48		  tcl
+2019-09-18 23:14:36		[irc]  /server  list|listfull [<name>]
+2019-09-18 23:14:36		                add <name> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2019-09-18 23:14:36		                copy|rename <name> <new_name>
+2019-09-18 23:14:36		                reorder <name> [<name>...]
+2019-09-18 23:14:36		                open <name>|-all [<name>...]
+2019-09-18 23:14:36		                del|keep <name>
+2019-09-18 23:14:36		                deloutq|jump|raw
+2019-09-18 23:14:36		list, add or remove IRC servers
+2019-09-18 23:14:36		    list: list servers (without argument, this list is displayed)
+2019-09-18 23:14:36		listfull: list servers with detailed info for each server
+2019-09-18 23:14:36		     add: add a new server
+2019-09-18 23:14:36		    name: server name, for internal and display use; this name is used to connect to the server (/connect name) and to set server options: irc.server.name.xxx
+2019-09-18 23:14:36		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2019-09-18 23:14:36		   -temp: add a temporary server (not saved)
+2019-09-18 23:14:36		  option: set option for server (for boolean option, value can be omitted)
+2019-09-18 23:14:36		nooption: set boolean option to 'off' (for example: -nossl)
+2019-09-18 23:14:36		    copy: duplicate a server
+2019-09-18 23:14:36		  rename: rename a server
+2019-09-18 23:14:36		 reorder: reorder list of servers
+2019-09-18 23:14:36		    open: open the server buffer without connecting
+2019-09-18 23:14:36		    keep: keep server in config file (for temporary servers only)
+2019-09-18 23:14:36		     del: delete a server
+2019-09-18 23:14:36		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2019-09-18 23:14:36		    jump: jump to server buffer
+2019-09-18 23:14:36		     raw: open buffer with raw IRC data
+2019-09-18 23:14:36		Examples:
+2019-09-18 23:14:36		  /server listfull
+2019-09-18 23:14:36		  /server add freenode chat.freenode.net
+2019-09-18 23:14:36		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2019-09-18 23:14:36		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2019-09-18 23:14:36		  /server copy freenode freenode-test
+2019-09-18 23:14:36		  /server rename freenode-test freenode2
+2019-09-18 23:14:36		  /server reorder freenode2 freenode
+2019-09-18 23:14:36		  /server del freenode
+2019-09-18 23:14:36		  /server deloutq
+2019-09-18 23:14:40		[irc]  /server  list|listfull [<name>]
+2019-09-18 23:14:40		                add <name> <hostname>[/<port>] [-temp] [-<option>[=<value>]] [-no<option>]
+2019-09-18 23:14:40		                copy|rename <name> <new_name>
+2019-09-18 23:14:40		                reorder <name> [<name>...]
+2019-09-18 23:14:40		                open <name>|-all [<name>...]
+2019-09-18 23:14:40		                del|keep <name>
+2019-09-18 23:14:40		                deloutq|jump|raw
+2019-09-18 23:14:40		list, add or remove IRC servers
+2019-09-18 23:14:40		    list: list servers (without argument, this list is displayed)
+2019-09-18 23:14:40		listfull: list servers with detailed info for each server
+2019-09-18 23:14:40		     add: add a new server
+2019-09-18 23:14:40		    name: server name, for internal and display use; this name is used to connect to the server (/connect name) and to set server options: irc.server.name.xxx
+2019-09-18 23:14:40		hostname: name or IP address of server, with optional port (default: 6667), many addresses can be separated by a comma
+2019-09-18 23:14:40		   -temp: add a temporary server (not saved)
+2019-09-18 23:14:40		  option: set option for server (for boolean option, value can be omitted)
+2019-09-18 23:14:40		nooption: set boolean option to 'off' (for example: -nossl)
+2019-09-18 23:14:40		    copy: duplicate a server
+2019-09-18 23:14:40		  rename: rename a server
+2019-09-18 23:14:40		 reorder: reorder list of servers
+2019-09-18 23:14:40		    open: open the server buffer without connecting
+2019-09-18 23:14:40		    keep: keep server in config file (for temporary servers only)
+2019-09-18 23:14:40		     del: delete a server
+2019-09-18 23:14:40		 deloutq: delete messages out queue for all servers (all messages WeeChat is currently sending)
+2019-09-18 23:14:40		    jump: jump to server buffer
+2019-09-18 23:14:40		     raw: open buffer with raw IRC data
+2019-09-18 23:14:40		Examples:
+2019-09-18 23:14:40		  /server listfull
+2019-09-18 23:14:40		  /server add freenode chat.freenode.net
+2019-09-18 23:14:40		  /server add freenode chat.freenode.net/6697 -ssl -autoconnect
+2019-09-18 23:14:40		  /server add chatspike irc.chatspike.net/6667,irc.duckspike.net/6667
+2019-09-18 23:14:40		  /server copy freenode freenode-test
+2019-09-18 23:14:40		  /server rename freenode-test freenode2
+2019-09-18 23:14:40		  /server reorder freenode2 freenode
+2019-09-18 23:14:40		  /server del freenode
+2019-09-18 23:14:40		  /server deloutq
+2019-09-18 23:16:02		Option changed: irc.server.freenode.nicks = "kkY,kkYrusobad,kkYurshiet"  (default if null: "kky,kky1,kky2,kky3,kky4")
+2019-09-18 23:16:25		Option changed: irc.server.freenode.username = "kkY"  (default if null: "kky")
+2019-09-18 23:16:35		Option changed: irc.server.freenode.realname = "PY"  (default if null: "")
+2019-09-18 23:16:47		Option changed: irc.server.freenode.autoconnect = on  (default if null: off)
+2019-09-18 23:35:21		fifo: pipe closed
+2019-09-18 23:35:24		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2019-09-18 23:35:35		fifo: pipe closed
+2019-09-18 23:43:04		Plugins loaded: alias, buflist, charset, exec, fifo, fset, irc, logger, lua, perl, python, relay, ruby, script, spell, tcl, trigger, xfer
+2019-09-19 00:05:12		fifo: pipe closed
