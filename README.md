@@ -1,2 +1,6 @@
 # DOTS
-current linux (arch) working configuration [OS : Arch ;  DE : -- ; WM : i3wm ]
+DOT files [current]
+Operating system --> Arch linux 
+Desktop environment --> -NIL-
+Display manager --> lightdm
+Window Manager --> i3wm
