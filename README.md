@@ -1,6 +1,9 @@
 # DOTS
 Current config files for desktop rice i.e : Arch + i3wm
 
+## Screenshot
+# ![DOTS](https://github.com/kkYrusobad/DOTS/blob/master/pic-full-190923-1358-23.png)
+
 ## Installation
 
 This config assumes that Arch is installed the way it should be. This rice being derived from LARBS it is recommended that first LARBS is installed,  
