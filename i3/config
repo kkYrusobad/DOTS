@@ -252,29 +252,30 @@ bindsym $mod+Mod2+KP_4 exec --no-startup-id playerctl --player=spotify previous
 bindsym $mod+Mod2+KP_5 exec --no-startup-id playerctl --player=spotify play-pause
 bindsym $mod+Mod2+KP_6 exec --no-startup-id playerctl --player=spotify next
 
-# Window assign
+# Window assignment to workspace
 
 assign [class="firefox"] $ws2
 assign [class="Brave-browser"] $ws2
-assign [class="Steam"] $ws5
-assign [class="discord"] $ws4
-assign [class="TelegramDesktop"] $ws4
 assign [class="Subl"] $ws3
 assign [class="code-oss"] $ws3
 #assign [class="Spotify"] $ws3
+assign [class="discord"] $ws4
+assign [class="TelegramDesktop"] $ws4
+assign [class="Steam"] $ws5
 for_window [class="Spotify"] move to workspace $ws10
 
 # i3 lock
 #bindsym $mod+x exec i3lock --color "#000000"
 
 # wallpaper set
-#exec_always feh --bg-scale /home/kky/Downloads/wallhaven-kwkg5q.jpg
-#exec_always feh --bg-scale /home/kky/Downloads/g2dtw3qtkv821.jpg
-exec_always feh --bg-scale /home/kky/Downloads/24535.jpg
+set $wallpaperDir "/home/kky/Downloads"
+#exec_always feh --bg-scale $wallpaperDir/wallhaven-kwkg5q.jpg
+#exec_always feh --bg-scale $wallpaperDir/g2dtw3qtkv821.jpg
+exec_always feh --bg-scale $wallpaperDir/24535.jpg
 
 
 
-#steam shit
+#steam windows & overays fixes
 for_window [class="^Steam$" title="^Friends$"] floating enable
 for_window [class="^Steam$" title="Steam - News"] floating enable
 for_window [class="^Steam$" title=".* - Chat"] floating enable
