@@ -1,7 +1,8 @@
 # DOTS
-Current config files for desktop rice i.e : Arch + i3wm
+Current config files for desktop rice i.e : Arch + i3wm (laptop configuration)
 
 ## Screenshot
+SHOWCASE
 # ![DOTS](https://github.com/kkYrusobad/DOTS/blob/master/pic-full-190923-1358-23.png)
 
 ## Installation
