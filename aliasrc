@@ -1,0 +1,66 @@
+#!/bin/sh
+
+# Use neovim for vim if present.
+command -v nvim >/dev/null && alias vim="nvim" vimdiff="nvim -d"
+
+# Verbosity and settings that you pretty much just always are going to want.
+alias \
+	cp="cp -iv" \
+	mv="mv -iv" \
+	rm="rm -vI" \
+	mkd="mkdir -pv" \
+	yt="youtube-dl --add-metadata -i" \
+	yta="yt -x -f bestaudio/best" \
+	ffmpeg="ffmpeg -hide_banner"
+
+# Colorize commands when possible.
+alias \
+	ls='exa' \
+	#ls="ls -hN --color=auto --group-directories-first" \
+	#ls="exa" \
+	#ll="exa -l" \
+	#l="exa -la" \
+	grep="grep --color=auto" \
+	diff="diff --color=auto" \
+	ccat="highlight --out-format=ansi"
+
+# These common commands are just too long! Abbreviate them.
+alias \
+	ka="killall" \
+	g="git" \
+	trem="transmission-remote" \
+	YT="youtube-viewer" \
+	sdn="sudo shutdown -h now" \
+	f="$FILE" \
+	e="$EDITOR" \
+	v="nvim" \
+	p="sudo pacman" \
+	xi="sudo xbps-install" \
+	xr="sudo xbps-remove -R" \
+	xq="xbps-query" \
+	ins="sudo pacman -S" \
+	rem="sudo pacman -Rcns" \
+	y="yay -S" \
+	clean="yay -Sc && sudo pacman -Sc && du -sh ~/.cache/" \
+	ytab="youtube-dl --extract-audio --audio-format best" \
+	ytf="youtube-dl --extract-audio --audio-format flac" \
+	ytb="youtube-dl -f bestvideo+bestaudio" \
+	z="zathura" \
+	keygpg="gpg --keyserver keyserver.ubuntu.com -recv-key" \
+
+alias \
+	magit="nvim -c MagitOnly" \
+	ref="shortcuts >/dev/null; source ${XDG_CONFIG_HOME:-$HOME/.config}/shortcutrc ; source ${XDG_CONFIG_HOME:-$HOME/.config}/zshnameddirrc" \
+	weath="less -S ${XDG_DATA_HOME:-$HOME/.local/share}/weatherreport" \
+	tmux="tmux -f ${XDG_CONFIG_HOME:-$HOME/.config}/tmux/tmux.conf" \
+# - Alias
+# ls
+#alias ls='exa'
+alias la='exa'
+alias ll='exa -l'
+alias lll='exa -l | less'
+alias lla='exa -la'
+alias llt='exa -T'
+alias cd..='cd ..'
+alias update='yay -Syyuu'
+alias tmatrix='tmatrix -s 28 -c default'

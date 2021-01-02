@@ -1,0 +1,33 @@
+/home/kky/garbage/ec
+starting program
+You do not have root permissions
+base_folder /tmp/.mount_Extremw5ErN5/usr/bin
+You do not have root permissions to get the status
+/home/kky/garbage/ec/usr/bin
+starting program
+You do not have root permissions
+You do not have root permissions to disable Extreme Cooling
+/home/kky/garbage/ec/ecexec/bin
+starting program
+You do not have root permissions
+You do not have root permissions to disable Extreme Cooling
+on_extreme_cooling_switch_activate
+You do not have root permissions to enable Extreme Cooling
+/home/kky/garbage/ec/ecexec/bin/ec4Linux.py
+Command '['pkexec', '/home/kky/garbage/ec/ecexec/bin/ec4Linux.py', 'enable']' returned non-zero exit status 127.
+/home/kky/garbage/ec/ecexec/bin
+starting program
+You do not have root permissions
+You do not have root permissions to disable Extreme Cooling
+on_extreme_cooling_switch_activate
+You do not have root permissions to enable Extreme Cooling
+/home/kky/garbage/ec/ecexec/bin/ec4Linux.py
+Command '['pkexec', '/home/kky/garbage/ec/ecexec/bin/ec4Linux.py', 'enable']' returned non-zero exit status 127.
+on_extreme_cooling_switch_activate
+You do not have root permissions to disable Extreme Cooling
+/home/kky/garbage/ec/ecexec/bin/ec4Linux.py
+Command '['pkexec', '/home/kky/garbage/ec/ecexec/bin/ec4Linux.py', 'disable']' returned non-zero exit status 127.
+on_extreme_cooling_switch_activate
+You do not have root permissions to enable Extreme Cooling
+/home/kky/garbage/ec/ecexec/bin/ec4Linux.py
+Command '['pkexec', '/home/kky/garbage/ec/ecexec/bin/ec4Linux.py', 'enable']' returned non-zero exit status 127.

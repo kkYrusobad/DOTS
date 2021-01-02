@@ -1,0 +1,57 @@
+#add new line?
+add_newline = true
+#prompt
+format = """
+$battery$directory$git_branch$git_status$golang$cmd_duration$status
+[\\[](bold red)$username[@](bold green)$hostname[\\]](bold red)[➜ ](bold green)$character"""
+#username pipe
+[username]
+#style_user = "white bold"
+#style_root = "black bold"
+format = "[$user](bold yellow)"
+disabled = false
+show_always = true
+#error code the bomb thingi
+[status]
+#style = "bg:cy"
+symbol = "💣"
+format = ' [\[$symbol[$status](bold red)\]](white)'
+disabled = false
+#host pipe
+[hostname]
+ssh_only = false
+format =  "[$hostname](bold cyan)"
+#trim_at = ".companyname.com"
+disabled = false
+#[env_var]
+#variable = "SHELL"
+#format = "on [$env_value](bold yellow)"
+#default = "wut"
+#directory and read only changes
+[directory]
+truncation_length = 8
+truncation_symbol = "../"
+read_only = ">:("
+format = "[$path](bold cyan) [$read_only](bold red)"
+#custom char for last command proper exec or !
+[character]
+success_symbol = "[:\\)](bold green)"
+error_symbol = "[:\\(](bold red)"
+#vicmd_symbol = "[V](bold green)"
+#time taken by the last command to exec, mim 500ms
+[cmd_duration]
+min_time = 500
+format = "[underwent](bold yellow) [$duration](bold cyan)"
+disabled = false
+#battery, threshold 30%
+[battery]
+full_symbol = " "
+charging_symbol = " "
+discharging_symbol = " "
+disabled = false
+[[battery.display]]
+threshold = 30
+style = "bold yellow"
+[[battery.display]]
+threshold = 10
+style = "bold red"
