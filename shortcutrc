@@ -35,3 +35,4 @@ blg="cd /media/2tbhdd/LinuxFiles/SCRIPTS/DEV/WEB/blog" \
 tseed="cd /media/2tbhdd/LinuxFiles/torrentseeds" \
 ida="/media/2tbhdd/LinuxFiles/SCRIPTS/CTFs/Thools/idafree-7.0/ida64" \
 ghi="/media/2tbhdd/LinuxFiles/SCRIPTS/CTFs/Thools/ghidra_9.0.4/ghidraRun" \
+monoff="xrandr --output HDMI-1-1 --off"
