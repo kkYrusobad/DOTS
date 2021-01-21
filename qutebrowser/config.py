@@ -91,7 +91,7 @@ config.set('content.javascript.enabled', True, 'qute://*/*')
 # Type: QtColor
 c.colors.webpage.bg = 'black'
 # DARK MODE EVERYTHING
-c.qt.args = ["blink-settings=darkMode=4,darkModeImagePolicy=2,darkModeEnabled=true,darkModeInversionAlgorithm=4"]
+#c.qt.args = ["blink-settings=darkMode=4,darkModeImagePolicy=2,darkModeEnabled=true,darkModeInversionAlgorithm=4"]
 c.colors.webpage.prefers_color_scheme_dark = True
 #c.colors.webpage.prefers_color_scheme_dark = True
 
