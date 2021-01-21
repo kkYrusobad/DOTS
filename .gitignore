@@ -110,6 +110,12 @@ systemsettingsrc
 THOPTV
 Trolltech.conf
 VirtualBox/
+transmission-daemon/
+transmission/
+spotify/
+pulse/
+gtk-2.0/
+gtk-3.0/
 vivaldi/
 webengineurlinterceptoradblockrc
 whoozle.github.io/
